@@ -26,3 +26,16 @@ Split the whole process into three steps:
 * References
     * E. Kavallieratou and S. Stathis, “Adaptive binarization of historical document images,” in 18th International Conference on Pattern Recognition (ICPR’06), 3, 742–745, IEEE (2006)
     * E. Kavallieratou, “A binarization algorithm specialized on document images and photos.,” in ICDAR, 5, 463–467 (2005)
+
+### Recognition
+#### CNN model
+* Train CNN model from scratch, the accuracy is about 93%.
+
+#### Demo
+* Simple GUI, first browse the photo of a car
+![](https://i.imgur.com/pcB0lyH.png)
+
+* Show the result
+![](https://i.imgur.com/jJwp3Ti.png)
+
+
