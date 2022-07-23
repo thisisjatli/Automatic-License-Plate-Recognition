@@ -33,9 +33,9 @@ Split the whole process into three steps:
 
 #### Demo
 * Simple GUI, first browse the photo of a car
-![](https://i.imgur.com/pcB0lyH.png)
+* ![](https://i.imgur.com/pcB0lyH.png)
 
 * Show the result
-![](https://i.imgur.com/jJwp3Ti.png)
+* ![](https://i.imgur.com/jJwp3Ti.png)
 
 
