@@ -13,7 +13,7 @@ Split the whole process into three steps:
 
 * Pretrained model
     * Model name: faster_rcnn_inception_v2_coco
-    * Tools: TensorFlow
+    * Tools: TensorFlow Object Detection API
 
 * Result
     * Accuracy of above 98%
